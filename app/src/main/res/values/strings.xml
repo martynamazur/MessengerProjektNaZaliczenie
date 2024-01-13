@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Chat">Chat</string>
+    <string name="zaloguj">zaloguj</string>
+    <string name="anonymous_chat">tajny chat</string>
+    <string name="Historia">histori</string>
+</resources>

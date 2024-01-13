@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "165679836134",
+    "firebase_url": "https://messenger-fc1da-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messenger-fc1da",
+    "storage_bucket": "messenger-fc1da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165679836134:android:8ff74db407585aaa338427",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvVN7T_vvRBdJxB4X9s7Fl-Qguofvgsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165679836134:android:61f27004a648dede338427",
+        "android_client_info": {
+          "package_name": "com.example.studenckimessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvVN7T_vvRBdJxB4X9s7Fl-Qguofvgsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
